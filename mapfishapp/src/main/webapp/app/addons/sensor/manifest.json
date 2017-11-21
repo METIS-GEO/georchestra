@@ -1,0 +1,24 @@
+{
+    "js": [
+        "js/main.js"
+    ],
+    "css": [
+        "css/main.css"
+    ],
+    "default_options": {
+    },
+    "i18n": {
+        "en": {
+            "sensor.window_title": "Sensors tools",
+            "sensor.tooltip.btn": "Sensor button",
+            "sensor.item.btn": "Sensor button",
+            "sensor.item.qtip": "Use sensors tools"
+        },
+        "fr": {
+            "sensor.window_title": "Outils de capteurs",
+            "sensor.tooltip.btn": "Ouvrir le module de capteurs",
+            "sensor.item.txt": "Capteurs",
+            "sensor.item.qtip": "Utilise les outils de capteurs"
+        }
+    }
+}

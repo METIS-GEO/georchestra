@@ -1,0 +1,17 @@
+[{
+    "id": "sensor_0",
+    "name": "Sensor",
+    "enabled": true,
+    "title": {
+        "en": "Sensors tools",
+        "es": "Sensors tools",
+        "fr": "Outils de capteurs"
+    },
+    "description": {
+        "en": "Use data from sensors",
+        "es": "Use data from sensors",
+        "fr": "Utiliser les données depuis des capteurs"
+    },
+    "options": {
+    }
+}]
